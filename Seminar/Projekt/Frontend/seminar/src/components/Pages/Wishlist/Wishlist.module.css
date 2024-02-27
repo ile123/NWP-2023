@@ -1,0 +1,48 @@
+#container {
+  display: flex;
+  align-items: center;
+}
+
+#navigation {
+  width: 20rem;
+}
+
+#content {
+  margin-left: 35rem;
+  margin-bottom: 10rem;
+}
+
+#noWishlist {
+  margin-left: 35rem;
+  margin-bottom: 10rem;
+}
+
+#scrollable {
+  border: 1px solid #198754;
+  height: 43rem;
+  width: 88rem;
+  overflow: auto;
+}
+
+#itemContainer {
+  display: grid;
+  place-items: center;
+}
+
+#item {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+#list {
+  list-style: none;
+  padding: 0;
+}
+
+#icon {
+  margin-left: 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+}

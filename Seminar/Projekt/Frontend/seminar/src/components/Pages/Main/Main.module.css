@@ -1,0 +1,13 @@
+#container {
+  display: flex;
+  align-items: center;
+}
+
+#navigation {
+  width: 20rem;
+}
+
+#content {
+  margin-left: 35rem;
+  margin-bottom: 10rem;
+}

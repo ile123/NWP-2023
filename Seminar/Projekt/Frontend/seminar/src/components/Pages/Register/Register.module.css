@@ -1,0 +1,16 @@
+#card {
+    margin-left: 32%;
+    margin-top: 10%;
+    width: 40rem;
+    height: 18.6rem;
+}
+
+#header {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#footer {
+    align-items: center;
+    justify-content: center;
+}

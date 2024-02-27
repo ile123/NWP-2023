@@ -1,0 +1,3 @@
+Import podataka u mongoDB bazu podataka.
+Prvo se treba provjeriti je li mongoDB pokrenuta
+Nakon toga iz komandne linije pokrenuti naredbu 'C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe movieAPI < moviesJson.js'

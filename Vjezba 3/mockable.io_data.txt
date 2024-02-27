@@ -1,0 +1,26 @@
+//Plane category
+["civilian", "military"]
+//Civilian plane Categories
+["private", "comercial", "stunt"]
+//private
+["Beechcraft Premier", "Hawker 400", "Learjet 31", "Embraer Phenom 300"]
+//comercial
+["Airbus A220", "Boeing 767", "Comac ARJ21 Xiangfeng", "Sukhoi Superjet SSJ100"]
+//stunt
+["Victa/AESL Airtourer", "Acrobin", "XtremeAir Sbach 342", "Yakovlev Yak-54"]
+
+
+//Military Plane Categories
+["attacker", "bomber", "fighter", "cargo", "awacs", "experimental"]
+//attacker
+["BAE Harrier II", "Chengdu J-20", "Dassault Mirage 2000", "Douglas A-4 Skyhawk"]
+//bomber
+["Blackburn Beagle", "Boeing B-52 Stratofortress", "Bristol Beaufighter", "Junkers Ju 287"]
+//cargo
+["Lockheed Martin C-130J Super Hercules", "Harbin Z-9", "Sikorsky UH-60 Black Hawk", "Kawasaki C-2"]
+//awacs
+["Antonov An-71", "Boeing B-29 AEW", "Fairey Gannet AEW.7", "Tupolev Tu-126"]
+//fighter
+["Junkers T.22", "McDonnell Douglas F4H/F-110/F-4 Phantom II", "McDonnell Douglas F-15 Eagle", "Sukhoi Su-57"]
+//experimental
+["Sukhoi Su-47", "Mitsubishi X-2 Shinshin", "Boeing X-32", "Grumman X-29"]

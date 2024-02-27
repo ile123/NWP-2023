@@ -1,0 +1,21 @@
+#card {
+  width: 60rem;
+  height: 22.7rem;
+  margin-top: 13rem;
+  margin-left: 25rem;
+}
+
+#header {
+  text-align: center;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#loading {
+  margin-top: 20%;
+  margin-left: 50%;
+}

@@ -1,0 +1,11 @@
+{
+  "subgenres": {
+      "SF" : ["Super Hero SF", "Fantazy SF", "Action SF"],
+      "Action" : ["British Action", "Car chase Action", "SF Action", "Crime Action"],
+      "Horror" : ["Thriller horror", "Zombie horror", "Psychological horror", "Comedy horror"],
+      "Comedy" : ["Romantic Comedy", "Black Comedy", "Satiric Comedy"],
+      "Drama":["Melodrama", "Family Drama"],
+      "British":["Action British", "Cpmedy British"],
+      "Tragedy":["Familiy", "War Tragedy", "Psychological Tragedy"]
+      }
+}

@@ -1,0 +1,61 @@
+#container {
+  display: flex;
+  align-items: center;
+}
+
+#navigation {
+  width: 20rem;
+}
+
+#content {
+  margin-left: 35rem;
+  margin-bottom: 10rem;
+}
+
+#noManufactuers {
+  margin-left: 35rem;
+  margin-bottom: 10rem;
+}
+
+#scrollable {
+  border: 1px solid #198754;
+  height: 43rem;
+  width: 88rem;
+  overflow: auto;
+}
+
+#itemContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+#item {
+  flex: 0 0 calc(33.33% - 20px);
+}
+
+#button {
+  font-size: 32px;
+  border: 1px solid #ccc;
+  border-radius: 100%;
+  background-color: #198754;
+  color: white;
+  cursor: pointer;
+  width: 5rem;
+  height: 5rem;
+  margin-left: 40rem;
+  margin-bottom: 1rem;
+}
+
+#buttonNoManufactures {
+  font-size: 32px;
+  border: 1px solid #ccc;
+  border-radius: 100%;
+  background-color: #198754;
+  color: white;
+  cursor: pointer;
+  width: 5rem;
+  height: 5rem;
+  margin-left: 44rem;
+  margin-bottom: 1rem;
+}

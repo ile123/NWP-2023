@@ -1,0 +1,81 @@
+#card {
+  width: 60rem;
+  height: 35rem;
+  margin-top: 4.5em;
+  margin-left: 25rem;
+}
+
+#image {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+  border: 1px solid #198754;
+}
+
+.info {
+  margin-top: 2rem;
+}
+
+#shortDescription {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+#row {
+  display: flex;
+  margin-top: 2rem;
+  margin-left: 24rem;
+}
+
+.column {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  width: 12rem;
+  height: 4rem;
+}
+
+#minusColumn {
+  margin-top: 1rem;
+  margin-left: 5rem;
+  width: 2rem;
+  height: 4rem;
+}
+
+#plusColumn {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  width: 2rem;
+  height: 4rem;
+}
+
+#amount {
+  margin-top: 1.6rem;
+  margin-left: 2rem;
+  width: 2rem;
+  height: 4rem;
+  text-align: center;
+}
+
+#minus {
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+#plus {
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+#cart {
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+#addIcon {
+  margin-top: 1rem;
+  margin-left: 2rem;
+  width: 2rem;
+  height: 4rem;
+}

@@ -1,0 +1,37 @@
+#card {
+  width: 60rem;
+  height: 35rem;
+  margin-top: 4.5em;
+  margin-left: 25rem;
+}
+
+#image {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+  border: 1px solid #198754;
+}
+
+.info {
+  margin-top: 4.5rem;
+}
+
+#shortDescription {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+#row {
+  display: flex;
+  margin-top: 2rem;
+  margin-left: 28rem;
+}
+
+.column {
+  margin-top: 1rem;
+  margin-left: 10rem;
+  width: 12rem;
+  height: 4rem;
+}
